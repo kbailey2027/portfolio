@@ -220,3 +220,12 @@ img {
   padding: 1.5rem 0;
   color: var(--muted);
 }
+
+a {
+  text-decoration: none;
+  color: #FFFFFF
+}
+
+sub {
+  color: darkslategrey
+}
